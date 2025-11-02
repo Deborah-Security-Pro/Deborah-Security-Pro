@@ -1,4 +1,11 @@
-## Hi there 👋
+# Method 1: Drag and drop in GitHub web interface
+# Method 2: Use Git commands
+git clone https://github.com/yourusername/yourusername.github.io
+cd yourusername.github.io
+# Copy all your website files to this folder
+git add .
+git commit -m "Add portfolio website"
+git push
 
 <!--
 **Deborah-Security-Pro/Deborah-Security-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
